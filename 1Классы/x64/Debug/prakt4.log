@@ -1,0 +1,6 @@
+﻿  Pyramid.cpp
+  prakt4.cpp
+C:\Users\11\source\repos\prakt4\1Классы\prakt4.cpp(28,15): warning C4101:  i: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\11\source\repos\prakt4\1Классы\prakt4.cpp(42,15): warning C4101:  i: неиспользованная локальная переменная
+  prakt4.vcxproj -> C:\Users\11\source\repos\prakt4\1Классы\x64\Debug\prakt4.exe

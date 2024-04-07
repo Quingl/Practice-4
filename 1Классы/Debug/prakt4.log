@@ -1,0 +1,4 @@
+﻿  prakt4.cpp
+C:\Users\11\source\repos\prakt4\prakt4.cpp(46,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\11\source\repos\prakt4\prakt4.cpp(58,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  prakt4.vcxproj -> C:\Users\11\source\repos\prakt4\Debug\prakt4.exe
